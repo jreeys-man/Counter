@@ -24,4 +24,7 @@ function chu(){
     a=parseFloat(document.getElementById("n1").value);
     b=parseFloat(document.getElementById("n2").value);
     document.getElementById("n3").value=a/b;
-} 
+}
+function no(){
+    alert("那咋不对呢,就对!!");
+}
